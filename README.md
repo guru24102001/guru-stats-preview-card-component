@@ -7,7 +7,7 @@
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 
-###Screenshot
+### Screenshot
 ![Screenshot](./images/Screenshot.PNG)
 
 
@@ -25,10 +25,9 @@ Users should be able to:
 ![Screenshot](./images/Screenshot.PNG)
 
 
-### Links
+### Link
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://guru24102001.github.io/guru-stats-preview-card-component/)
 
 ## My process
 
