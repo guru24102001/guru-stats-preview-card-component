@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Link
 
-- Live Site URL: [Add live site URL here](https://guru24102001.github.io/guru-stats-preview-card-component/)
+- Live Site URL: [Live site URL here](https://guru24102001.github.io/guru-stats-preview-card-component/)
 
 ## My process
 
