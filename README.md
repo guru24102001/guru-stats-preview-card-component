@@ -7,8 +7,8 @@
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 
-- [Overview](#overview)
-  - [Screenshot](images/Screenshot.PNG)
+###Screenshot
+![Screenshot](./images/Screenshot.PNG)
 
 
 
@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./images/screenshot.PNG)
+![Screenshot](./images/Screenshot.PNG)
 
 
 ### Links
