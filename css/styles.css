@@ -1,0 +1,98 @@
+body{
+  background-color: hsl(233, 47%, 7%);
+  font-family: 'Inter', sans-serif;
+  font-size: 15px;
+}
+
+td{
+
+  padding: 0;
+}
+h2{
+  margin: 10px 0;
+  color: hsla(0, 0%, 100%, 0.75);
+}
+p{
+  margin: 0;
+  color:hsla(0, 0%, 100%, 0.6)
+}
+
+img{
+  border-radius: 0 2% 2% 0;
+  border-spacing: 0;
+  opacity: 25%;
+  position: absolute;
+  bottom: 1px;
+
+
+}
+.insights{
+  color: hsl(277, 64%, 61%);
+}
+.heading{
+  margin: 0;
+  padding: 75px 75px 0 75px;
+  color: hsl(0, 0%, 100%);
+  font-size: 35px;
+}
+.description{
+
+  padding: 35px 75px 75px 75px;
+  line-height: 1.5;
+}
+
+.container-img{
+  border-radius: 0 2% 2% 0;
+  border-spacing: 0;
+  background-color: hsl(277, 64%, 61%);
+  height: 446px;
+  width: 540px;
+  position: absolute;
+  bottom: 1px;
+}
+
+.stats1{
+  position: absolute;
+  left: 75px;
+  bottom: 75px;
+  color: hsl(0, 0%, 100%);
+}
+.stats2{
+  position: absolute;
+  left: 215px;
+  bottom: 75px;
+  color: hsl(0, 0%, 100%);
+}
+.stats3{
+  position: absolute;
+  left: 355px;
+  bottom: 75px;
+  color: hsl(0, 0%, 100%);
+}
+
+.partition{
+    height: 448px;
+    width: 1080px;
+    color: white;
+    border-style: none;
+    background-color: hsl(244, 38%, 16%);
+    border-radius: 2%;
+    position: relative;
+
+    margin: 250px auto;
+
+}
+.left-partition{
+  position: relative;
+    height: 446px;
+    width: 540px;
+
+}
+.attribution{
+  color: hsl(228, 45%, 44%);
+  position: absolute;
+  text-align: center;
+  left: 500px;
+  right: 500px;
+  bottom: 100px;
+}
